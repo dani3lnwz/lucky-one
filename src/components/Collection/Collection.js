@@ -7,7 +7,7 @@ const Collection = () => {
     const [products, setProducts] = useState([]);
     const [cart, setCart] = useState([]);
 
-    // if(!(product.length>3)){}
+    
 
     useEffect (() => {
         fetch('data.json')
