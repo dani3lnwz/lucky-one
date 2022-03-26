@@ -17,7 +17,7 @@ const Cart = ({cart}) => {
     }
 
     
-
+    // reload area//
     const handleReChooseBtn = () => {
         window.location.reload();
     }
