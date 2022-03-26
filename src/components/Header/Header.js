@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <nav className='header'>
             <h1>Best Car Collections</h1>
-            <h3>My Best 4 Car</h3>
+            <h3>My Best 12 Car's</h3>
         </nav>
     );
 };

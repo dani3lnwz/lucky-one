@@ -1,74 +1,74 @@
 [
     {
       "id": 1,
-      "price": 20,
-      "name": "Esther Mcleod",
+      "price": "39.9 lakh",
+      "name": "BMW 2 Series Gran Coupe",
       "image": "https://img.freepik.com/free-photo/white-offroader-jeep-parking_114579-4007.jpg?t=st=1648222429~exp=1648223029~hmac=02ee448447aa840f0be4f3ed50b93a0ddbc19385e2f908622c3bdd5bc4129ad8&w=740"
     },
     {
       "id": 2,
-      "price": 37,
-      "name": "Hays Joyce",
+      "price": "39.5 lakh",
+      "name": "BMW X1",
       "image": "https://img.freepik.com/free-photo/silver-metallic-color-sport-sedan-road_114579-5035.jpg?t=st=1648222429~exp=1648223029~hmac=183c93ae2d14f0463d55348cb9aac40f57220509097503062d001d9e993866e8&w=740"
     },
     {
       "id": 3,
-      "price": 20,
-      "name": "Myra Hayden",
+      "price": "43.6 lakh",
+      "name": "BMW 3 Series",
       "image": "https://img.freepik.com/free-photo/blue-jeep-parking-public-zone_114579-4042.jpg?t=st=1648222429~exp=1648223029~hmac=e40008307f25dea1833bad7bd746d11fff697c5aa089f4e6529ba0088a4eb4a9&w=740"
     },
     {
       "id": 4,
-      "price": 35,
-      "name": "Elise Luna",
+      "price": "52.5 Lakh",
+      "name": "Bmw 3 Series Gran Limousin",
       "image": "https://img.freepik.com/free-photo/blue-sport-sedan-parked-yard_114579-5078.jpg?t=st=1648222429~exp=1648223029~hmac=c68e81a0b7264cd5d39fa3ed301002addea7e3781118446c6049b91b08f8279a&w=740"
     },
     {
       "id": 5,
-      "price": 24,
-      "name": "Juarez Mckenzie",
+      "price": "59.9 Lakh",
+      "name": "BMW X3",
       "image": "https://img.freepik.com/free-photo/grey-metallic-jeep-with-blue-stripe-it_114579-4080.jpg?t=st=1648222429~exp=1648223029~hmac=43c15b0f44b6fca95b489cbb180664bff86712f4953392003e5c6e9ea90e68dd&w=740"
     },
     {
       "id": 6,
-      "price": 22,
-      "name": "Imelda Patrick",
+      "price": "63.4 Lakh",
+      "name": "BMW 5 Series",
       "image" : "https://img.freepik.com/free-photo/red-luxury-sedan-road_114579-5079.jpg?t=st=1648222429~exp=1648223029~hmac=a5e842c93fade7f4f6e24a9e564c59c54e5278781504298c143c71f7f99e1f30&w=740"
     },
     {
       "id": 7,
-      "price": 22,
-      "name": "Imelda Patrick",
+      "price": "67 lakh",
+      "name": "FORD z4",
       "image" : "https://img.freepik.com/free-photo/yellow-sport-car-with-black-autotuning-road_114579-5051.jpg?t=st=1648222429~exp=1648223029~hmac=c248e84728b829f3d3db4d243accbeb0f6b126750e2dcce5c251214355ee45a8&w=740"
     },
     {
       "id": 8,
-      "price": 22,
-      "name": "Imelda Patrick",
+      "price": "67.9 lakh",
+      "name": "BMW 6 Series GT",
       "image" : "https://img.freepik.com/free-photo/red-luxury-sedan-road_114579-5079.jpg?t=st=1648222429~exp=1648223029~hmac=a5e842c93fade7f4f6e24a9e564c59c54e5278781504298c143c71f7f99e1f30&w=740"
     },
     {
       "id": 9,
-      "price": 22,
-      "name": "Imelda Patrick",
+      "price": "70.5 Lakh",
+      "name": "LAMBORGINI ",
       "image" : "https://img.freepik.com/free-photo/white-luxury-sport-sedan-car-standing-race-trace-front-side-view_114579-1161.jpg?t=st=1648222429~exp=1648223029~hmac=b246c750d369297cb4a2fd6abc56afbd76941420096db6afbdb215a8164ac651&w=740"
     },
     {
       "id": 10,
-      "price": 22,
-      "name": "Imelda Patrick",
+      "price": "77.9 lAKH",
+      "name": "BMW X5",
       "image" : "https://img.freepik.com/free-photo/black-sport-car-highway-drive-sunset_114579-5064.jpg?t=st=1648222429~exp=1648223029~hmac=621e55320201cdcd6ecf0bac39127e44c4eb7655e2b8d954c74ec762184a10de&w=740"
     },
     {
       "id": 11,
-      "price": 22,
-      "name": "Imelda Patrick",
+      "price": "85 Lakh",
+      "name": "BMW M2",
       "image" : "https://img.freepik.com/free-photo/closeup-shot-white-car-dark-background_181624-20300.jpg?w=740&t=st=1648225368~exp=1648225968~hmac=d3b50c8d01c25d7aaf3c42c7b7c7246eca0f8b690c1bdfc6c0e7ea7efaffec1d"
     },
     {
       "id": 12,
-      "price": 22,
-      "name": "Imelda Patrick",
+      "price": "96.9 Lakh",
+      "name": "BMW X6",
       "image" : "https://img.freepik.com/free-photo/white-coupe-sport-car-standing-road-front-view_114579-4005.jpg?w=740&t=st=1648225412~exp=1648226012~hmac=73727242fabbdbc64f3c98083aed158e4f79fc41790292d869770d29ff84e2be"
     }
   ]

@@ -2,13 +2,13 @@ import React from 'react';
 import './Cart.css'
 
 const Cart = ({cart}) => {
-    console.log(cart);
+    // console.log(cart);
 
     const choseOne = car => {
-        if (cart.length) {
+        if (car.length) {
             const randomNumber = Math.round(Math.random() * (cart.length -1));
             console.log(randomNumber);
-            const text = cart[randomNumber].name +  ' Suggested For You!';
+            const text = car[randomNumber].name +  ' Suggested For You!';
             alert(text);
         }
         else{
@@ -16,19 +16,27 @@ const Cart = ({cart}) => {
         }
     }
 
+    
+
+    const handleReChooseBtn = () => {
+        window.location.reload();
+    }
+
     return (
         <div className='detail'>
               <div className="cart-container">
                   
-                    <h3>Order Summary in</h3>
-                    <p>Selected Items: {cart.length}</p>
+                    <h4>Order Summary:</h4>
+                    <h5>Selected Items: {cart.length}</h5>
                     {
                       cart.map((cart) => (
                           <h4 key={cart.id}>{cart.name}</h4>
                       ))
                     }
                     
-                    <button onClick={() => choseOne(cart)}>Chose One For Me</button>
+                    <button className='btn-1' onClick={() => choseOne(cart)}>Chose One </button>
+                    <br />
+                    <button className='btn-2' onClick={handleReChooseBtn}>Choose again</button>
                 </div>
         </div>
     );
