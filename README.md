@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# This Is my Project assignment-8
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [My Assignment no-8](https://peppy-mandazi-5365ed.netlify.app/).
 
 ## Available Scripts
 
